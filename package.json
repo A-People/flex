@@ -1,0 +1,26 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "flex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-People/flex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-People/flex/issues"
+  },
+  "homepage": "https://github.com/A-People/flex#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-wrap": "^0.13.0"
+  }
+}
